@@ -1,0 +1,6 @@
+[submodule "envs/rbenv"]
+	path = envs/rbenv
+	url = https://github.com/rbenv/rbenv
+[submodule "envs/pyenv"]
+	path = envs/pyenv
+	url = https://github.com/pyenv/pyenv
